@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:58:18.914937
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:34
 #+TITLE: 大乘百法明門論解
 #+PROPERTY: CBETA_ID T44n1836
 #+PROPERTY: ID KR6n0097
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 44, No. 1836
 #+PROPERTY: VOL 44
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0097_T_000-0046a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0097_T_001-0046a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1836[cf.No.1614]¶
-
- 大乘百法明門論解卷上(本地分中略錄名數)¶
+No. 1836 [cf. No. 1614]¶
+大乘百法明門論解卷上(本地分中略錄名數)¶
 ¶
 天親菩薩造¶
 唐三藏法師玄奘奉　詔譯¶
@@ -246,7 +245,7 @@ No.1836[cf.No.1614]¶
 能起合離，非二欲故；亦云令心等起歡、慼、捨¶
 相(此解詞異意同)，想則於境取相為性，施設種種名¶
 言為業，謂安立自境分齊故，方能隨起種種¶
-名言。思則令心造作為性，於善品等役心為¶
+名言。思則於境取相為性，於善品等役心為¶
 業，為能取境正因等相，驅役自心能造善¶
 等。¶
 

@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:58:18.942959
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:34
 #+TITLE: 大乘百法明門論解
 #+PROPERTY: CBETA_ID T44n1836
 #+PROPERTY: ID KR6n0097
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 44, No. 1836
 #+PROPERTY: VOL 44
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0097_T_000-0046a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0097_T_002-0049a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 大乘百法明門論解卷下¶
+大乘百法明門論解卷下¶
 ¶
 天親菩薩造¶
 唐三藏法師玄奘奉　詔譯¶
@@ -341,10 +340,7 @@
 ¶
 ¶
 
-:PROPERTIES:
-:head: 修補大乘百法明門論後序
-:END:
-¶
+* 修補大乘百法明門論後序¶
 ¶
 
 百法者，散於群經，具於《瑜伽論》，至世親師始¶
